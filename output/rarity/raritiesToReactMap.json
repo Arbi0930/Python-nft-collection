@@ -1,0 +1,298 @@
+[
+    {
+        "attribute": "Background",
+        "items": [
+            {
+                "name": "Blue",
+                "stock": 3,
+                "total": 60,
+                "percentage": 5.01,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/0-background/1-Blue.png"
+            },
+            {
+                "name": "Cyan",
+                "stock": 12,
+                "total": 60,
+                "percentage": 20.04,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/2-Cyan.png"
+            },
+            {
+                "name": "Purple Sr",
+                "stock": 14,
+                "total": 60,
+                "percentage": 23.38,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/4-Purple_sr.png"
+            },
+            {
+                "name": "Red R",
+                "stock": 15,
+                "total": 60,
+                "percentage": 25.05,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/5-Red_r.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 16,
+                "total": 60,
+                "percentage": 26.72,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/3-Orange.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border Color",
+        "items": [
+            {
+                "name": "Blue Sr",
+                "stock": 11,
+                "total": 60,
+                "percentage": 18.37,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/1-Blue_sr.png"
+            },
+            {
+                "name": "Gray",
+                "stock": 11,
+                "total": 60,
+                "percentage": 18.37,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/2-Gray.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 12,
+                "total": 60,
+                "percentage": 20.04,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/3-Orange.png"
+            },
+            {
+                "name": "Red R",
+                "stock": 26,
+                "total": 60,
+                "percentage": 43.42,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/4-Red_r.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border Dots",
+        "items": [
+            {
+                "name": "Shirt Sr",
+                "stock": 22,
+                "total": 60,
+                "percentage": 36.74,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/3-Shirt_sr.png"
+            },
+            {
+                "name": "Shirt",
+                "stock": 38,
+                "total": 60,
+                "percentage": 63.46,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/1-Shirt.png"
+            },
+            {
+                "name": "Shirt",
+                "stock": 38,
+                "total": 60,
+                "percentage": 63.46,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/2-Shirt-r.png"
+            },
+            {
+                "name": "Shirt",
+                "stock": 38,
+                "total": 60,
+                "percentage": 63.46,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/4-Shirt.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Example Text",
+        "items": [
+            {
+                "name": "Pants",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-example_text/1-Pants.png"
+            },
+            {
+                "name": "Pants",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-example_text/2-Pants.png"
+            },
+            {
+                "name": "Pants",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-example_text/3-Pants.png"
+            },
+            {
+                "name": "Pants",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-example_text/4-Pants.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Simple Draw",
+        "items": [
+            {
+                "name": "Sneaker",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/1-Sneaker.png"
+            },
+            {
+                "name": "Sneaker",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/2-Sneaker.png"
+            },
+            {
+                "name": "Sneaker",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/3-Sneaker-r.png"
+            },
+            {
+                "name": "Sneaker",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/4-Sneaker.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Watermark",
+        "items": [
+            {
+                "name": "Hat R",
+                "stock": 5,
+                "total": 60,
+                "percentage": 8.35,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/5-watermark/1-Hat_r.png"
+            },
+            {
+                "name": "Hat Sr",
+                "stock": 22,
+                "total": 60,
+                "percentage": 36.74,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-watermark/3-Hat_sr.png"
+            },
+            {
+                "name": "Hat",
+                "stock": 33,
+                "total": 60,
+                "percentage": 55.11,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-watermark/1-Hat.png"
+            },
+            {
+                "name": "Hat",
+                "stock": 33,
+                "total": 60,
+                "percentage": 55.11,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-watermark/4-Hat.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border Mark",
+        "items": [
+            {
+                "name": "Accessories",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/1-Accessories.png"
+            },
+            {
+                "name": "Accessories",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/2-Accessories.png"
+            },
+            {
+                "name": "Accessories",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/3-Accessories.png"
+            },
+            {
+                "name": "Accessories",
+                "stock": 60,
+                "total": 60,
+                "percentage": 100.2,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/4-Accessories.png"
+            }
+        ]
+    }
+]

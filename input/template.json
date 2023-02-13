@@ -1,0 +1,36 @@
+{
+    "name": "Shutis",
+    "symbol": "CS",
+    "description": "shutis lims",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "external_url": "",
+    "attributes": 
+    [
+    ],
+    "collection":
+    {
+        "name": "Shutis",
+        "family": "Nft"
+    },
+    "properties":
+    {
+        "files":
+        [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "0x5cD9d1Cb3be43B679F326256ca341b38cA1cD41c",
+                "share": 100
+            }
+        ]
+    }
+}
+
+

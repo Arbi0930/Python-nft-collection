@@ -1,0 +1,3062 @@
+[
+    {
+        "name": "Shutis #20",
+        "rank": 1,
+        "score": 43.0956,
+        "score_distribution": {
+            "Background": {
+                "item": "Blue",
+                "total_stock": 3,
+                "percentage": 5.01,
+                "score": 19.9601
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat R",
+                "total_stock": 5,
+                "percentage": 8.35,
+                "score": 11.976
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #31",
+        "rank": 2,
+        "score": 30.700800000000005,
+        "score_distribution": {
+            "Background": {
+                "item": "Blue",
+                "total_stock": 3,
+                "percentage": 5.01,
+                "score": 19.9601
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #39",
+        "rank": 3,
+        "score": 29.554800000000004,
+        "score_distribution": {
+            "Background": {
+                "item": "Blue",
+                "total_stock": 3,
+                "percentage": 5.01,
+                "score": 19.9601
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #21",
+        "rank": 4,
+        "score": 27.4127,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat R",
+                "total_stock": 5,
+                "percentage": 8.35,
+                "score": 11.976
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #2",
+        "rank": 5,
+        "score": 25.732000000000003,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat R",
+                "total_stock": 5,
+                "percentage": 8.35,
+                "score": 11.976
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #23",
+        "rank": 6,
+        "score": 25.527800000000003,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat R",
+                "total_stock": 5,
+                "percentage": 8.35,
+                "score": 11.976
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #14",
+        "rank": 7,
+        "score": 23.126099999999997,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat R",
+                "total_stock": 5,
+                "percentage": 8.35,
+                "score": 11.976
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #41",
+        "rank": 8,
+        "score": 17.8733,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #38",
+        "rank": 9,
+        "score": 17.7253,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #54",
+        "rank": 10,
+        "score": 17.7253,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #46",
+        "rank": 11,
+        "score": 17.6238,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #12",
+        "rank": 12,
+        "score": 17.271600000000003,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #8",
+        "rank": 13,
+        "score": 17.271600000000003,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #1",
+        "rank": 14,
+        "score": 17.2513,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #57",
+        "rank": 15,
+        "score": 17.0125,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #30",
+        "rank": 16,
+        "score": 17.0125,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #37",
+        "rank": 17,
+        "score": 16.9661,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #25",
+        "rank": 18,
+        "score": 16.818099999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #42",
+        "rank": 19,
+        "score": 16.818099999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #10",
+        "rank": 20,
+        "score": 16.818099999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #19",
+        "rank": 21,
+        "score": 16.7273,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #6",
+        "rank": 22,
+        "score": 16.7166,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #24",
+        "rank": 23,
+        "score": 16.7166,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #9",
+        "rank": 24,
+        "score": 16.7166,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Blue Sr",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #22",
+        "rank": 25,
+        "score": 16.7166,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #59",
+        "rank": 26,
+        "score": 16.558799999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #45",
+        "rank": 27,
+        "score": 16.5124,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #13",
+        "rank": 28,
+        "score": 16.4778,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #34",
+        "rank": 29,
+        "score": 16.3644,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #11",
+        "rank": 30,
+        "score": 16.2736,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #40",
+        "rank": 31,
+        "score": 16.2629,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #53",
+        "rank": 32,
+        "score": 16.2629,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #15",
+        "rank": 33,
+        "score": 15.8201,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #43",
+        "rank": 34,
+        "score": 15.651599999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #56",
+        "rank": 35,
+        "score": 15.651599999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #58",
+        "rank": 36,
+        "score": 15.651599999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Orange",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #16",
+        "rank": 37,
+        "score": 15.570599999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Gray",
+                "total_stock": 11,
+                "percentage": 18.37,
+                "score": 5.4437
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #49",
+        "rank": 38,
+        "score": 14.8235,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #18",
+        "rank": 39,
+        "score": 14.8235,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #36",
+        "rank": 40,
+        "score": 14.8235,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #44",
+        "rank": 41,
+        "score": 14.732699999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #29",
+        "rank": 42,
+        "score": 14.732699999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #50",
+        "rank": 43,
+        "score": 14.110699999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #7",
+        "rank": 44,
+        "score": 13.871899999999997,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #60",
+        "rank": 45,
+        "score": 13.871899999999997,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #52",
+        "rank": 46,
+        "score": 13.825499999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #26",
+        "rank": 47,
+        "score": 13.677499999999998,
+        "score_distribution": {
+            "Background": {
+                "item": "Cyan",
+                "total_stock": 12,
+                "percentage": 20.04,
+                "score": 4.99
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #17",
+        "rank": 48,
+        "score": 13.586699999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #32",
+        "rank": 49,
+        "score": 13.586699999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #27",
+        "rank": 50,
+        "score": 13.575999999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #5",
+        "rank": 51,
+        "score": 13.3372,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #55",
+        "rank": 52,
+        "score": 13.3372,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat Sr",
+                "total_stock": 22,
+                "percentage": 36.74,
+                "score": 2.7218
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Shutis #48",
+        "rank": 53,
+        "score": 12.964699999999997,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #51",
+        "rank": 54,
+        "score": 12.964699999999997,
+        "score_distribution": {
+            "Background": {
+                "item": "Purple Sr",
+                "total_stock": 14,
+                "percentage": 23.38,
+                "score": 4.2772
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #33",
+        "rank": 55,
+        "score": 12.679499999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #35",
+        "rank": 56,
+        "score": 12.679499999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #4",
+        "rank": 57,
+        "score": 12.679499999999999,
+        "score_distribution": {
+            "Background": {
+                "item": "Red R",
+                "total_stock": 15,
+                "percentage": 25.05,
+                "score": 3.992
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #3",
+        "rank": 58,
+        "score": 12.43,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #28",
+        "rank": 59,
+        "score": 12.43,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Shutis #47",
+        "rank": 60,
+        "score": 12.43,
+        "score_distribution": {
+            "Background": {
+                "item": "Orange",
+                "total_stock": 16,
+                "percentage": 26.72,
+                "score": 3.7425
+            },
+            "Border Color": {
+                "item": "Red R",
+                "total_stock": 26,
+                "percentage": 43.42,
+                "score": 2.3031
+            },
+            "Border Dots": {
+                "item": "Shirt",
+                "total_stock": 38,
+                "percentage": 63.46,
+                "score": 1.5758
+            },
+            "Example Text": {
+                "item": "Pants",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Simple Draw": {
+                "item": "Sneaker",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            },
+            "Watermark": {
+                "item": "Hat",
+                "total_stock": 33,
+                "percentage": 55.11,
+                "score": 1.8146
+            },
+            "Border Mark": {
+                "item": "Accessories",
+                "total_stock": 60,
+                "percentage": 100.2,
+                "score": 0.998
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    }
+]

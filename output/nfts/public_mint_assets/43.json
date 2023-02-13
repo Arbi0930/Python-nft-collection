@@ -1,0 +1,57 @@
+{
+    "name": "Shutis #23",
+    "symbol": "CS",
+    "description": "shutis lims",
+    "seller_fee_basis_points": 250,
+    "image": "43.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red R"
+        },
+        {
+            "trait_type": "Border Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Border Dots",
+            "value": "Shirt"
+        },
+        {
+            "trait_type": "Example Text",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Simple Draw",
+            "value": "Sneaker"
+        },
+        {
+            "trait_type": "Watermark",
+            "value": "Hat R"
+        },
+        {
+            "trait_type": "Border Mark",
+            "value": "Accessories"
+        }
+    ],
+    "collection": {
+        "name": "Shutis",
+        "family": "Nft"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "43.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x5cD9d1Cb3be43B679F326256ca341b38cA1cD41c",
+                "share": 100
+            }
+        ]
+    }
+}
